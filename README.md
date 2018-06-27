@@ -21,7 +21,7 @@ Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney in 
 
 </br>
 
-## ## The Virtual Machine
+## The Virtual Machine
 
 ![](imgs/cor2.png)
 </br>
